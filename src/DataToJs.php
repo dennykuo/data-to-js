@@ -1,6 +1,6 @@
 <?php
 
-namespace Dennykuo;
+namespace Dennykuo\DataToJs;
 
 class DataToJs
 {
