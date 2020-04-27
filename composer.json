@@ -1,0 +1,17 @@
+{
+    "name": "dennykuo/data-tp-js",
+    "description": "Transform PHP data to JavaScript",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Denny",
+            "email": "dennykuo@gmail.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "Dennykuo\\DataToJs\\": "src/"
+        }
+    },
+    "require": {}
+}
