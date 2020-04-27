@@ -4,8 +4,7 @@
     "license": "MIT",
     "authors": [
         {
-            "name": "Denny",
-            "email": "dennykuo@gmail.com"
+            "name": "Denny"
         }
     ],
     "autoload": {
